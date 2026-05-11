@@ -1,8 +1,8 @@
 <div align="center">
 
-# M. Wirayuda Prawira
+# Wirayuda Prawira
 
-**Designer & IT Professional · Banjarmasin, Indonesia**
+**Junior Web Developer · Banjarmasin, Indonesia**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-wirayudaprawira.github.io-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://aynafez-666.github.io/wirayudaprawira.github.io/)
 [![Email](https://img.shields.io/badge/Email-wira666x@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wira666x@gmail.com)
