@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Aynafez-666/aynafez-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# M. Wirayuda Prawira
 
-Here are some ideas to get you started:
+**Designer & IT Professional · Banjarmasin, Indonesia**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-wirayudaprawira.github.io-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://aynafez-666.github.io/wirayudaprawira.github.io/)
+[![Email](https://img.shields.io/badge/Email-wira666x@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wira666x@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+62823--5127--9302-0d1117?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282351279302)
+
+</div>
+
+---
+
+### About Me
+
+IT Professional with a background in Informatics Engineering, currently working as a Designer & IT at BNN (National Narcotics Agency) Banjarmasin. Passionate about building clean web applications, crafting visual designs, and solving real-world problems through technology.
+
+---
+
+### Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+### Tools & Design
+
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-0d1117?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00C4CC)
+![Lightroom](https://img.shields.io/badge/Lightroom-0d1117?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![Wirayuda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aynafez-666&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aynafez-666&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+
+</div>
+
+---
+
+### Experience
+
+```
+Designer & IT        BNN Banjarmasin          2022 — Present
+S1 Informatics Eng.  UNISKA Banjarmasin       2018 — 2022
+```
+
+---
+
+<div align="center">
+
+*Open to Work · Available for freelance & collaboration*
+
+</div>
