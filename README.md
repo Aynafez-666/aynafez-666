@@ -2,11 +2,10 @@
 
 # Wirayuda Prawira
 
-**Junior Web Developer · Banjarmasin, Indonesia**
+**Junior Web Developer & Network Administrator · Banjarmasin, Indonesia**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-wirayudaprawira.github.io-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://aynafez-666.github.io/wirayudaprawira.github.io/)
-[![Email](https://img.shields.io/badge/Email-wira666x@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wira666x@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+62823--5127--9302-0d1117?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282351279302)
+
 
 </div>
 
@@ -14,7 +13,7 @@
 
 ### About Me
 
-IT Professional with a background in Informatics Engineering, currently working as a Designer & IT at BNN (National Narcotics Agency) Banjarmasin. Passionate about building clean web applications, crafting visual designs, and solving real-world problems through technology.
+IT Professional with a background in Informatics Engineering, currently working as a Designer & IT at BNN (National Narcotics Agency) Banjarmasin. Passionate about building clean web applications, managing network infrastructure,, crafting visual designs, and solving real-world problems through technology.
 
 ---
 
@@ -26,6 +25,7 @@ IT Professional with a background in Informatics Engineering, currently working 
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Networking](https://img.shields.io/badge/Network_Administration-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 
 ### Tools & Design
 
@@ -51,8 +51,8 @@ IT Professional with a background in Informatics Engineering, currently working 
 ### Experience
 
 ```
-Designer & IT        BNN Banjarmasin          2022 — Present
-S1 Informatics Eng.  UNISKA Banjarmasin       2018 — 2022
+Designer & IT        BNN Banjarmasin          2022 — 
+S1 Informatics Eng.  UNISKA Banjarmasin       2019 — 2022
 ```
 
 ---
